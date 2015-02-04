@@ -16,6 +16,9 @@ Below are the job tiers and duties associated to each level of developer at Pipe
  * See that the team's work is delivered on time, well tested, and of high quality.
  * Routinely finds bottlenecks and dependencies in tasks and stories, and works to mitigate.
  * Serves as technical liaison when stories/tasks deviate from their original estimation/implementation
+ 
+### Management
+ * Craft & Manage team members' individual goals.  Have regular check-ins to ensure they are on target to meet their goals.
 
 ## Senior Engineer
 
