@@ -11,9 +11,6 @@ Below are the job tiers and duties associated to each level of developer at Pipe
  * Lead architecture and technology decisions within PipelineDeals.
  * Ensure that long-term technology goals are being met.
 
-### Initiative & Attitude
- * Leads discussions about new technologies both inside PipelineDeals and out.
-
 ### Teamwork Collaboration
  * Ensure each team member is accountable for delivering their share of work.
  * See that the team's work is delivered on time, well tested, and of high quality.
