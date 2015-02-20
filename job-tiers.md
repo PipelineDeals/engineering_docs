@@ -14,7 +14,7 @@
  * Works to ensure the team's process is operating efficiently
  
 ### Management
- * Responsible for the performance of the team members
+ * Responsible for the performance and accountability of the team members
  * See that each team member is developing personally given their own interests and goals
  * Ensure each team member is making forward progress with respect to the definition of the PipelineDeals job tiers
 
