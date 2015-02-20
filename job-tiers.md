@@ -16,36 +16,30 @@ Below are the job tiers and duties associated to each level of developer at Pipe
  * See that the team's work is delivered on time, well tested, and of high quality.
  * Routinely finds bottlenecks and dependencies in tasks and stories, and works to mitigate.
  * Serves as technical liaison when stories/tasks deviate from their original estimation/implementation
- 
+
 ### Management
  * Craft & Manage team members' individual goals.  Have regular check-ins to ensure they are on target to meet their goals.
 
 ## Senior Engineer
 
 ### Technical Skills
- * Mastery of all levels of our tech stack.
- * Knows every component of our production infrastructure.  Could recover the site from downtime independently.
+ * Mastery of all levels of the technology stack (ie. database, client-side, backend)
+ * Comfortable with the setup and deployment of every component of the production infrastructure
+ * Can confidently handle production downtime and recover to a stable state
 
 ### Initiative & Attitude
- * Explores technology landscape and presents interesting/useful tools/solutions to the team to vet.
- * Demonstrates self-driven continuous improvement.
- * Able to lead a project without guidance.
- * Can self-manage priorities to ensure highest priority deadlines are met.
- * Willing to do “un-fun” tasks without complaint.
- * Routinely completes small tasks quickly.
- * Routinely takes on difficult projects/code and succeeds at delivering a solution.
- * Balances quality of delivery with quantity of delivery.
- * Consistently improve delivered code from other team members through direct feedback or other learning events.
 
 ### Teamwork & Collaboration
- * mentor the junior and mid-level engineers, not just inside our 4 walls.
+ * Explores technology outside of PipelineDeals and presents interesting findings to the team
+ * Provides mentorship and knowledge transfer to other engineers regularly
+ * Consistently delivers high-quality, functional code in a timely manner
+ * Able to lead a project without guidance
+ * Routinely takes on difficult projects/code and succeeds at delivering a solutions
+ * Can self-manage priorities to ensure highest priority deadlines are met
+ * Exhibits willingness to undertake less "sexy" improvements/features within the codebase
 
 ### Team Process
- * Ability to accurately break down and task a large story.
- * Can accurately estimate tasks to within +/- 10%.
- * Deviations to happy path use case are easily identified.
- * Can solve problems quickly.
- * Can identify bottlenecks within a task or story during sprint planning.
+ * Ability to accurately break down and task a large story/feature
 
 ## Engineer
 
