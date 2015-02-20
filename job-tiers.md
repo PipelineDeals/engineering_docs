@@ -1,24 +1,22 @@
 # Engineering Job tiers at PipelineDeals
 
-Below are the job tiers and duties associated to each level of developer at PipelineDeals.
-
 ## Team Lead
 
 ### Technical Skills
 
- * Aware of technology landscape, and is pragmatic about introducing a new technology to our stack.
- * Go-to person for technical questions and direction.
- * Lead architecture and technology decisions within PipelineDeals.
- * Ensure that long-term technology goals are being met.
+ * Aware of technology landscape, and is pragmatic about introducing a new technology to our stack
+ * Go-to person for technical questions and direction
+ * Lead architecture and technology decisions within PipelineDeals
+ * Ensure that long-term technology goals are being met
 
 ### Teamwork Collaboration
- * Ensure each team member is accountable for delivering their share of work.
- * See that the team's work is delivered on time, well tested, and of high quality.
- * Routinely finds bottlenecks and dependencies in tasks and stories, and works to mitigate.
- * Serves as technical liaison when stories/tasks deviate from their original estimation/implementation
+ * Ensure the team's work is delivered on time, well tested, and of high quality
+ * Works to ensure the team's process is operating efficiently
  
 ### Management
- * Craft & Manage team members' individual goals.  Have regular check-ins to ensure they are on target to meet their goals.
+ * Responsible for the performance of the team members
+ * See that each team member is developing personally given their own interests and goals
+ * Ensure each team member is making forward progress with respect to the definition of the PipelineDeals job tiers
 
 ## Senior Engineer
 
@@ -38,7 +36,7 @@ Below are the job tiers and duties associated to each level of developer at Pipe
  * Consistently improve delivered code from other team members through direct feedback or other learning events.
 
 ### Teamwork & Collaboration
- * mentor the junior and mid-level engineers, not just inside our 4 walls.
+ * Mentor the junior and mid-level engineers, not just inside our 4 walls.
 
 ### Team Process
  * Ability to accurately break down and task a large story.
