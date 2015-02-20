@@ -50,7 +50,7 @@ Below are the job tiers and duties associated to each level of developer at Pipe
 ## Engineer
 
 ### Technical Skills
- * Consistently produces clean, working code in a timely manner.
+ * Consistently delivers high-quality, functional code in a timely manner
  * Pull requests have very few FIXME comments, if any.  Code is well-tested and demonstrates a good architectural style.
  * Working knowledge of at least one Javascript framework.  Can develop a basic SPA with a given framework.
  * Solid experience with SQL.  Basic knowledge of how indexes work, and can optimize a query.
