@@ -33,7 +33,7 @@ Below are the job tiers and duties associated to each level of developer at Pipe
  * Explores technology outside of PipelineDeals and presents interesting findings to the team
  * Provides mentorship and knowledge transfer to other engineers regularly
  * Consistently delivers high-quality, functional code in a timely manner
- * Able to lead a project without guidance
+ * Able to lead a project with minimal guidance
  * Routinely takes on difficult projects/code and succeeds at delivering a solutions
  * Can self-manage priorities to ensure highest priority deadlines are met
  * Exhibits willingness to undertake less "sexy" improvements/features within the codebase
