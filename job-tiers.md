@@ -15,6 +15,7 @@
  * Manage all Engineering teams.
  * Build and maintain a hiring pipeline.
  * Motivate the entire Engineering department towards a company-wide finish line.
+
 ## Team Lead
 
 ### Technical Skills
