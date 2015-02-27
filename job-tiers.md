@@ -18,6 +18,12 @@
 
 ## Team Lead
 
+### Management
+ * See that each team member is developing personally given their own interests and goals
+ * Ensure each team member is making forward progress with respect to the definition of the PipelineDeals job tiers
+
+## Tech Lead
+
 ### Technical Skills
 
  * Aware of technology landscape, and is pragmatic about introducing a new technology to our stack
@@ -31,8 +37,6 @@
 
 ### Management
  * Responsible for the performance and accountability of the team members
- * See that each team member is developing personally given their own interests and goals
- * Ensure each team member is making forward progress with respect to the definition of the PipelineDeals job tiers
 
 ## Senior Engineer
 
