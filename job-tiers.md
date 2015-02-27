@@ -1,5 +1,21 @@
 # Engineering Job tiers at PipelineDeals
 
+## VP Engineering
+
+### Process and structure
+ * Define and enhance the software delivery process for all teams
+ * Define the teams and who leads them
+
+### Initiative & Attitude
+ * Be the spokesperson for the entire Engineering team
+ * Evangelize the Engineering team to the company and beyond
+ * Leads technical direction of all products
+
+### Team Management
+ * Manage all Engineering teams
+ * Build and maintain a hiring pipeline
+ * Motivate the entire Engineering department towards a company-wide finish line
+
 ## Team Lead
 
 ### Technical Skills
