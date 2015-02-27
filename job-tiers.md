@@ -2,6 +2,22 @@
 
 Below are the job tiers and duties associated to each level of developer at PipelineDeals.
 
+## VP Engineering
+
+__Process and structure__
+ * Define and enhance the software delivery process for all teams.
+ * Define the teams and who leads them.
+
+__Initiative & Attitude__
+ * Be the spokesperson for the entire Engineering team.
+ * Evangelize the Engineering team to the company and beyond.
+ * Leads technical direction of all products.
+
+__Team Management__
+ * Manage all Engineering teams.
+ * Build and maintain a hiring pipeline.
+ * Motivate the entire Engineering department towards a company-wide finish line.
+
 ## Team Lead
 
 __Technical Skills__
