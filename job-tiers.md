@@ -12,7 +12,7 @@
 ### Teamwork Collaboration
  * Ensure the team's work is delivered on time, well tested, and of high quality
  * Works to ensure the team's process is operating efficiently
- 
+
 ### Management
  * Responsible for the performance and accountability of the team members
  * See that each team member is developing personally given their own interests and goals
@@ -21,29 +21,23 @@
 ## Senior Engineer
 
 ### Technical Skills
- * Mastery of all levels of our tech stack.
- * Knows every component of our production infrastructure.  Could recover the site from downtime independently.
+ * Mastery of all levels of the technology stack (ie. database, client-side, backend)
+ * Comfortable with the setup and deployment of every component of the production infrastructure
+ * Can confidently handle production downtime and recover to a stable state
 
 ### Initiative & Attitude
- * Explores technology landscape and presents interesting/useful tools/solutions to the team to vet.
- * Demonstrates self-driven continuous improvement.
- * Able to lead a project without guidance.
- * Can self-manage priorities to ensure highest priority deadlines are met.
- * Willing to do “un-fun” tasks without complaint.
- * Routinely completes small tasks quickly.
- * Routinely takes on difficult projects/code and succeeds at delivering a solution.
- * Balances quality of delivery with quantity of delivery.
- * Consistently improve delivered code from other team members through direct feedback or other learning events.
 
 ### Teamwork & Collaboration
  * Mentor the junior and mid-level engineers, not just inside our 4 walls.
+ * Provides mentorship and knowledge transfer to other engineers regularly
+ * Consistently delivers high-quality, functional code in a timely manner
+ * Able to lead a project with minimal guidance
+ * Routinely takes on difficult projects/code and succeeds at delivering solutions
+ * Can self-manage priorities to ensure highest priority deadlines are met
+ * Exhibits willingness to undertake less "sexy" improvements/features within the codebase
 
 ### Team Process
- * Ability to accurately break down and task a large story.
- * Can accurately estimate tasks to within +/- 10%.
- * Deviations to happy path use case are easily identified.
- * Can solve problems quickly.
- * Can identify bottlenecks within a task or story during sprint planning.
+ * Ability to accurately break down and task a large story/feature
 
 ## Engineer
 
