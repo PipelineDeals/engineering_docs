@@ -5,9 +5,11 @@
 ### Process and structure
  * Define and enhance the software delivery process for all teams
  * Define the teams and who leads them
+ * Set the overall technical direction
 
 ### Initiative & Attitude
  * Be the spokesperson for the entire Engineering team
+ * Be the communication channel for the entire Engineering team
  * Evangelize the Engineering team to the company and beyond
  * Leads technical direction of all products
 
