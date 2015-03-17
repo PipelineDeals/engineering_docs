@@ -43,8 +43,6 @@
  * Comfortable with the setup and deployment of every component of the production infrastructure
  * Can confidently handle production downtime and recover to a stable state
 
-### Initiative & Attitude
-
 ### Teamwork & Collaboration
  * Mentor the junior and mid-level engineers, not just inside our 4 walls.
  * Provides mentorship and knowledge transfer to other engineers regularly
