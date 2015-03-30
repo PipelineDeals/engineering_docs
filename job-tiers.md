@@ -84,11 +84,6 @@
 * Routinely meets or exceeds ticket SLAs
 * Proactively communicates with reporter about status of ticket, and sets appropriate expectations
 
-#### Technical Skills -- QA Engineer focus
-
-* Performs UAT on finished stories
-* Performs user-centric QA on features that have completed development, according to best QA practices and procedures.
-
 ### Initiative & Attitude
 
 * Learns technologies outside of PipelineDeals.
@@ -117,3 +112,10 @@
 
 * Can size well-defined small tasks efficiently.
 * Raises sizing issues as known.
+
+## QA Engineer
+
+* Performs UAT on finished stories, according to best QA practices and procedures.
+* Documents all issues found with clear steps to replicate.
+* Engages in testing events, utilizing different strategies (white box, grey box, black box, etc) scheduled on a regular basis.
+* Helps the product teams in grooming meetings, to ensure there is a clear testing path from the start, and any potential gotchas are raised.
