@@ -6,12 +6,16 @@ Congratulations! You've been trusted with a noble and powerful honor: the role o
 
 There's a deploy happening at 11am. Is master prepared? Are you prepared? Here are some guidelines to get set up:
 
-* Check [GitHub][GH bug PRs] for open bug PRs.
+* Check GitHub for [open bug PRs][GH bug PRs].
   * Perform code review. When approved, mark as such via Hubot. (hubot room: `hubot pr qa accept PRNUMGOESHERE`)
   * When the PR has been approved by both QA and BO, merge it to master. (hubot room: `hubot pr merge PRNUMGOESHERE`)
 * Martin/Scott will manage the deploy at 11am.
   * You can see what has been merged by checking out the [latest release][] and clicking the "## commits to master" link.
   * If there are migrations to run, please coordinate with the deployer to make sure they're run properly.
+
+### Is it Thursday, though?
+
+* Also check Github for [open "Hold for UI deploy" PRs][GH UI PRs].
 
 ## Check NewRelic for Errors
 
@@ -30,6 +34,7 @@ You're going to want to keep an eye on any errors popping up in the app, especia
 * Try to focus on errors that occur often or could be related to recent deploys.
 
 [GH bug PRs]: https://github.com/pulls?q=is%3Aopen+is%3Apr+user%3APipelineDeals+label%3Abug
+[GH bug PRs]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3APipelineDeals+label%3A%22Hold+for+UI+deploy%22
 [latest release]: https://github.com/PipelineDeals/pipeline_deals/releases/latest
 
 [Production]: https://rpm.newrelic.com/accounts/7082/applications/1944961/traced_errors
