@@ -7,11 +7,13 @@ Congratulations! You've been trusted with a noble and powerful honor: the role o
 There's a deploy happening at 11am. Is master prepared? Are you prepared? Here are some guidelines to get set up:
 
 * Check GitHub for [open bug PRs][GH bug PRs].
-  * Perform code review. When approved, mark as such via Hubot. (hubot room: `hubot pr qa accept PRNUMGOESHERE`)
-  * When the PR has been approved by both QA and BO, merge it to master. (hubot room: `hubot pr merge PRNUMGOESHERE`)
-* Martin/Scott will manage the deploy at 11am.
+  * Perform code review. When approved, mark as such via Hubot.
+    * hubot room: `hubot pr qa accept PRNUMGOESHERE`
+  * When the PR has been approved by both QA and BO, merge it to master.
+    * hubot room: `hubot pr merge PRNUMGOESHERE`
+* A deploy should happen around 11am. You should probably handle that.
   * You can see what has been merged by checking out the [latest release][] and clicking the "## commits to master" link.
-  * If there are migrations to run, please coordinate with the deployer to make sure they're run properly.
+  * If there are migrations to run, please coordinate with the deployer (if that isn't you) to make sure they're run properly.
 
 ### Is it Thursday, though?
 
@@ -28,8 +30,8 @@ You're going to want to keep an eye on any errors popping up in the app, especia
     * [PipelineGoogle][]
     * [William][]
     * [PipelineEmail][]
-* If you find a ticketable error, click "File a ticket in JIRA 5" link on the error page.
-  * This will create an MBL ticket with a link to the error in NewRelic.
+* ~~If you find a ticketable error, click "File a ticket in JIRA 5" link on the error page.~~
+* If you find a ticketable error, create an issue in Jira.
   * Feel free to add to the description or comment with some context that will help the product and customer care teams prioritize the work.
 * Try to focus on errors that occur often or could be related to recent deploys.
 
