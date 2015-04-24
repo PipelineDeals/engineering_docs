@@ -12,6 +12,10 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 * Check with the White Team leader (Scott) to see if/that all the PRs to go out today are ready.
 * If there are migrations to run, be sure to get them taken care of.
 
+### Wednesday
+
+* Send kevin an an email of what is going to be shipped for thursday's UI deploy.  Include items from both red and blue teams.
+
 ### Thursday
 
 * Thursday's deploy will also include customer-facing UI tickets.
@@ -19,6 +23,7 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 * If there are migrations that require low-traffic, check with Scott to plan their execution.
 * You will be responsible for merging the UI PRs waiting for you on Thursday morning.
   * If there are conflicts, check with the team leads to see about resolving them.
+* After the UI deploy is complete, send a message in company talk, saying the UI items have been deployed.
 
 ## Check NewRelic for Errors
 
