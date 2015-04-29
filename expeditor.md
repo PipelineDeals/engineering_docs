@@ -14,7 +14,7 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 
 ### Wednesday
 
-* Send [Kevin][] an email of what is going to be shipped in Thursday's UI deploy, from the Red team.
+* Send [Kevin][] and [Grant][] an email of what is going to be shipped in Thursday's UI deploy, from the Red team.
 
 ### Thursday
 
