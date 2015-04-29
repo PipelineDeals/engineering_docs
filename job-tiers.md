@@ -44,7 +44,6 @@
 
 * Oversee the implementation of major tech projects, major upgrades, and technical decisions
 * Define the overall tech architecture
-* 
 
 ## Team Lead
 
