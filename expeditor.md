@@ -16,7 +16,7 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 
 * In the morning, take a look at the [upcoming UI PRs][GH UI PRs] to see what's coming up.
 * If there are migrations that require low-traffic, check with Scott to plan their execution.
-* Send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy, but only the stuff that the Red Team is shipping, because apparently other people are taking care of the rest. Preferably before noon.
+* Preferably before noon, send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy, but only the stuff that the Red Team is shipping, because apparently other people are taking care of the rest. Jody is considered part of Red Team.
 
 ### Thursday
 
