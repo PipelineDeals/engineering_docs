@@ -14,7 +14,7 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 
 ### Wednesday
 
-* Send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy, from the Red team.
+* Send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy. Preferably before noon.
 * At end-of-day Wednesday, take a look at the [upcoming UI PRs][GH UI PRs] to see what's coming up.
 * If there are migrations that require low-traffic, check with Scott to plan their execution.
 
