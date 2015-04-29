@@ -15,13 +15,13 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 ### Wednesday
 
 * Send [Kevin][] and [Grant][] an email of what is going to be shipped in Thursday's UI deploy, from the Red team.
+* At end-of-day Wednesday, take a look at the [upcoming UI PRs][GH UI PRs] to see what's coming up.
+* If there are migrations that require low-traffic, check with Scott to plan their execution.
 
 ### Thursday
 
 * Thursday's deploy will also include customer-facing UI tickets.
-* At end-of-day Wednesday, take a look at the [upcoming UI PRs][GH UI PRs] to see what's coming up.
-* If there are migrations that require low-traffic, check with Scott to plan their execution.
-* You will be responsible for merging the UI PRs waiting for you on Thursday morning.
+* You will be responsible for merging [the UI PRs][GH UI PRs] waiting for you on Thursday morning.
   * If there are conflicts, check with the team leads to see about resolving them.
 * After the UI deploy is complete, send a message in Company Talk, saying the UI items have been deployed.
 
