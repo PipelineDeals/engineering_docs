@@ -3,20 +3,48 @@
 ## VP Engineering
 
 ### Process and structure
+
  * Define and enhance the software delivery process for all teams
  * Define the teams and who leads them
+ * Define deployment strategy
  * Set the overall technical direction
 
 ### Initiative & Attitude
+
  * Be the spokesperson for the entire Engineering team
- * Be the communication channel for the entire Engineering team
  * Evangelize the Engineering team to the company and beyond
  * Leads technical direction of all products
+ 
+### Communication
+
+* Be the main touchpoint for all inbound and outbound communications of the engineering team
+* Define the strategies for outbound communication to the rest of the team
+
+### Evangelization / Community
+
+* Set the strategy and pace for blogging
+* Give 4 talks per year at various engineering leadership groups
+
+### Culture
+
+* Have a focus on learning, teaching.
+* Engineers understand operations
 
 ### Team Management
- * Manage all Engineering teams
+
+ * Define + Manage all Engineering teams
+ * Manage all 3rd party relationships
+ * Manage the engineering budget
+ * Help define OKRs for team leads
+ * Conduct performance reviews for team leads
  * Build and maintain a hiring pipeline
  * Motivate the entire Engineering department towards a company-wide finish line
+
+### Tech leadership
+
+* Oversee the implementation of major tech projects, major upgrades, and technical decisions
+* Define the overall tech architecture
+* 
 
 ## Team Lead
 
