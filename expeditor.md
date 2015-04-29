@@ -14,7 +14,7 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 
 ### Wednesday
 
-* Send [Kevin][] and [Grant][] an email of what is going to be shipped in Thursday's UI deploy, from the Red team.
+* Send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy, from the Red team.
 * At end-of-day Wednesday, take a look at the [upcoming UI PRs][GH UI PRs] to see what's coming up.
 * If there are migrations that require low-traffic, check with Scott to plan their execution.
 
@@ -55,8 +55,7 @@ Run `hubot queue stats` in the Operations Room.
 4. Open a Rails console.
 5. Run `PldBuildCheckWorker.perform_async`. The results will display in the Operations Room.
 
-[Kevin]: mailto:kevin@pipelinedealsco.com
-[Grant]: mailto:grant@pipelinedealsco.com
+[k&g]: mailto:kevin@pipelinedealsco.com,grant@pipelinedealsco.com
 
 [GH UI PRs]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3APipelineDeals+label%3A%22Hold+for+UI+deploy%22++-label%3AWIP
 
