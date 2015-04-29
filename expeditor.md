@@ -55,7 +55,7 @@ Run `hubot queue stats` in the Operations Room.
 4. Open a Rails console.
 5. Run `PldBuildCheckWorker.perform_async`. The results will display in the Operations Room.
 
-[k&g]: mailto:kevin@pipelinedealsco.com,grant@pipelinedealsco.com
+[k&g]: mailto:kevin@pipelinedealsco.com,grant@pipelinedealsco.com?subject=Tomorrow's UI Deploy
 
 [GH UI PRs]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3APipelineDeals+label%3A%22Hold+for+UI+deploy%22++-label%3AWIP
 
