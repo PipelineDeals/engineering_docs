@@ -2,6 +2,8 @@
 
 Congratulations! You've been trusted with a noble and powerful honor: the role of Expeditor. Do not fear. While it carries with it a great responsibility, you shall prevail. Follow these steps, and you shall go down in Expeditor history. (History that's only a few months old is still history.) And besides, you only have to survive the rest of the week. (We must all share the ~~burden~~ responsibility.)
 
+**Pro Tip:** Keep this tab pinned in your browser.
+
 ## Manage Daily Deploys
 
 We'd like to have a scheduled deploy every day at/around 11am ET. Here are some guidelines to help the process along:
