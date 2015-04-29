@@ -14,9 +14,9 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 
 ### Wednesday
 
-* In the morning, take a look at the [upcoming UI PRs][GH UI PRs] to see what the Red Team's got coming up.
+* In the morning, take a look at the [upcoming UI PRs][GH UI PRs] to see what's coming up.
 * If there are migrations that require low-traffic, check with Scott to plan their execution.
-* Send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy. Preferably before noon.
+* Send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy, but only the stuff that the Red Team is shipping, because apparently other people are taking care of the rest. Preferably before noon.
 
 ### Thursday
 
@@ -57,7 +57,7 @@ Run `hubot queue stats` in the Operations Room.
 
 [k&g]: mailto:kevin@pipelinedealsco.com,grant@pipelinedealsco.com?subject=Tomorrow's%20UI%20Deploy:%20Red%20Team%20stuff
 
-[GH UI PRs]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3APipelineDeals+label%3A%22Hold+for+UI+deploy%22+-label%3AWIP+label%3A%22Red+Team%22
+[GH UI PRs]: https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3APipelineDeals+label%3A%22Hold+for+UI+deploy%22+-label%3AWIP
 
 [Production]: https://rpm.newrelic.com/accounts/7082/applications/1944961/traced_errors
 [PipelineGoogle]: https://rpm.newrelic.com/accounts/7082/applications/3658335/traced_errors
