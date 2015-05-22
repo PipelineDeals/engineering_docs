@@ -80,18 +80,18 @@
  * Exhibits willingness to undertake less "sexy" improvements/features within the codebase
 
 ### Team Process
- * [Dev] Ability to accurately break down and task a large story/feature
+ * Ability to accurately break down and task a large story/feature
 
 ## Engineer
 
 ### Technical Skills
- * [Dev] Consistently produces clean, working code in a timely manner.
- * [Dev] Pull requests have very few FIXME comments, if any.  Code is well-tested and demonstrates a good architectural style.
- * [Dev] Working knowledge of at least one Javascript framework.  Can develop a basic SPA with a given framework.
- * [Dev] Solid experience with SQL.  Basic knowledge of how indexes work, and can optimize a query.
- * [Ops] Working knowledge of most aspects of production infrastructure.  Can fire up servers, ssh to them, and know where the logs are and how they work.
- * [Dev] Routinely uses best engineering practices.
- * [Dev] Solid use of unit and integration testing.
+ * Consistently produces clean, working code in a timely manner.
+ * Pull requests have very few FIXME comments, if any.  Code is well-tested and demonstrates a good architectural style.
+ * Working knowledge of at least one Javascript framework.  Can develop a basic SPA with a given framework.
+ * Solid experience with SQL.  Basic knowledge of how indexes work, and can optimize a query.
+ * Working knowledge of most aspects of production infrastructure.  Can fire up servers, ssh to them, and know where the logs are and how they work.
+ * Routinely uses best engineering practices.
+ * Solid use of unit and integration testing.
 
 ### Initiative & Attitude
  * Learns technologies outside of PipelineDeals.
