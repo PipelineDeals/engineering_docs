@@ -66,9 +66,9 @@
 ## Senior Engineer
 
 ### Technical Skills
- * [Dev] Mastery of all levels of the technology stack (ie. database, client-side, backend)
- * [Ops] Comfortable with the setup and deployment of every component of the production infrastructure
- * [Ops] Can confidently handle production downtime and recover to a stable state
+ * Mastery of all levels of the technology stack (ie. database, client-side, backend)
+ * Comfortable with the setup and deployment of every component of the production infrastructure
+ * Can confidently handle production downtime and recover to a stable state
 
 ### Teamwork & Collaboration
  * Mentor the junior and mid-level engineers, not just inside our 4 walls.
