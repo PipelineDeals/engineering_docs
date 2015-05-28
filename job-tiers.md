@@ -2,6 +2,10 @@
 
 ## VP Engineering
 
+### Strategic vision
+
+* Define strategic vision for all tech-related aspects of the company as a whole
+
 ### Process and structure
 
  * Define and enhance the software delivery process for all teams
