@@ -51,11 +51,7 @@ Run `hubot queue stats` in the Operations Room.
 
 ### The build check failed, but I'm suspicious. How can I run it manually?
 
-1. Download/install/configure [`pd-cli`][pd-cli].
-2. Run `pd aws -a deployer` to get the IP address of the current deployer box.
-3. SSH to said box.
-4. Open a Rails console.
-5. Run `PldBuildCheckWorker.perform_async`. The results will display in the Operations Room.
+Run `hubot deploy pld:check` in the Operations Room.
 
 [k&g]: mailto:kevin@pipelinedealsco.com,grant@pipelinedealsco.com?subject=Tomorrow's%20UI%20Deploy:%20Red%20Team%20stuff
 
@@ -66,4 +62,3 @@ Run `hubot queue stats` in the Operations Room.
 [William]: https://rpm.newrelic.com/accounts/7082/applications/4073616/traced_errors
 [PipelineEmail]: https://rpm.newrelic.com/accounts/7082/applications/2102351/traced_errors
 
-[pd-cli]: https://github.com/PipelineDeals/pd_cli
