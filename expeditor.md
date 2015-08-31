@@ -2,7 +2,6 @@
 
 Congratulations! You've been trusted with a noble and powerful honor: the role of Expeditor. Do not fear. While it carries with it a great responsibility, you shall prevail. Follow these steps, and you shall go down in Expeditor history. (History that's only a few months old is still history.) And besides, you only have to survive the rest of the week. (We must all share the ~~burden~~ responsibility.)
 
-**Pro Tip:** Keep this tab pinned in your browser.
 
 ## Manage Daily Deploys
 
@@ -13,12 +12,6 @@ We'd like to have a scheduled deploy every day at/around 11am ET. Here are some 
 * Every day's deploy will (mostly) consist of bug PRs that were managed by the White Team.
 * Check with the White Team leader (Scott) to see if/that all the PRs to go out today are ready.
 * If there are migrations to run, be sure to get them taken care of.
-
-### Wednesday
-
-* In the morning, take a look at the [upcoming UI PRs][GH UI PRs] to see what's coming up.
-* If there are migrations that require low-traffic, check with Scott to plan their execution.
-* Preferably before noon, send [Kevin and Grant][k&g] an email of what is going to be shipped in Thursday's UI deploy, but only the stuff that the Red Team is shipping, because apparently other people are taking care of the rest. Jody is considered part of Red Team.
 
 ### Thursday
 
