@@ -2,23 +2,15 @@
 
 Congratulations! You've been trusted with a noble and powerful honor: the role of Expeditor. Do not fear. While it carries with it a great responsibility, you shall prevail. Follow these steps, and you shall go down in Expeditor history. (History that's only a few months old is still history.) And besides, you only have to survive the rest of the week. (We must all share the ~~burden~~ responsibility.)
 
+The expeditor's duties are thus:
 
-## Manage Daily Deploys
+* You will be on pagerduty rotation.
+* Daily check of newrelic from the past 24 hours, for PipelineDeals and all major service apps (william, etc).
 
-We'd like to have a scheduled deploy every day at/around 11am ET. Here are some guidelines to help the process along:
+## PagerDuty rotation
 
-### Monday-Friday
+If pagerduty blows up, you are front and center.  See the [site emergency checklist](https://github.com/PipelineDeals/pipeline_deals/wiki/Site-emergency-checklist-and-contact-info) if you get paged.
 
-* Every day's deploy will (mostly) consist of bug PRs that were managed by the White Team.
-* Check with the White Team leader (Scott) to see if/that all the PRs to go out today are ready.
-* If there are migrations to run, be sure to get them taken care of.
-
-### Thursday
-
-* Thursday's deploy will also include customer-facing UI tickets.
-* You will be responsible for merging [the UI PRs][GH UI PRs] waiting for you on Thursday morning.
-  * If there are conflicts, check with the team leads to see about resolving them.
-* After the UI deploy is complete, send a message in Company Talk, saying the UI items have been deployed.
 
 ## Check NewRelic for Errors
 
