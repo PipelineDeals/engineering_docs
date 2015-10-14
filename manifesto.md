@@ -10,3 +10,4 @@ We want...
 * to keep on top of application security.
 * to give back to open source.
 * to give back to the community by telling our story as an engineering team.
+* to own our production infrastructure.
