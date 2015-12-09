@@ -1,15 +1,5 @@
 # Engineer Interview Process
 
-## Google Recommends:
-
-* Same interview questions
-
-Writing questions is hard.
-
-* Write them
-* Test them
-* Don't trust your gut
-
 ## Attributes:
 
 * Technical skill [TS]
@@ -18,8 +8,7 @@ Writing questions is hard.
 * Communication [C]
 * Devopsiness [D]
 
-# Structured questions
-
+## Structured questions
 
 * [TS] have you worked on a project that had presenters? If so, what were some things that it helped with? Was there anything that you didn’t like about using them?
 * [TS, C] Tell me about a recent performance issue you had in Ruby/Rails and how you went about solving it.
@@ -41,12 +30,9 @@ Writing questions is hard.
 * [D] Have you run production apps in those cloud environments?
 * [D] Do you have experience with configuration management like chef, puppet, ansible?
 
-
-
-# Resources:
+## Resources:
 
 * http://www.forbes.com/sites/theyec/2014/08/01/five-non-tech-interview-questions-to-ask-a-developer/
 * http://www.infoworld.com/article/2685213/application-development/3-make-or-break-interview-questions-for-developers.html
 * https://github.com/h5bp/Front-end-Developer-Interview-Questions
 * https://github.com/spikenode/DevOps-Interview-Questions
-
