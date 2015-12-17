@@ -5,7 +5,7 @@
 * HR paperwork completed/signed
 * Computer secured, wiped, ready to go
 * Mentor assigned
-
+* Employee handbook delivered
 
 ## First day
 
