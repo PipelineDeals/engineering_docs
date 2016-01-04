@@ -1,73 +1,65 @@
 # Onboarding stuff for developers
 
-## Pre-entry
+## Pre-entry (2 weeks before hire date)
+
+**New hire tasks**
 
 * HR paperwork completed/signed
+
+**Mentor / Admin tasks**
+
 * Computer secured, wiped, ready to go
 * Mentor assigned
-
+* Mentor reaches out 1-2 weeks before start date, to be available for any questions.
+* Pair programming  / coding asisgnment set.  Bugs?  new development?
+* Access to PipelineDeals Engineering wiki
+* Access to all other systems
 
 ## First day
 
-#### Schedule meetings + sessions for first week
+**New hire tasks**
 
 * Meeting with Grant to set overall direction
-* Meeting with mentor
+* Walkthrough on dev process by mentor, how the trello board works
+* Deploy on the very first day.  Is this a gimmick?
 * Machine setup
-* Pair programming  / coding asisgnment set.  Bugs?  new development?
+* Add self to /about page?
 
-#### Add to systems
+**Mentor tasks**
+
+* Be available for question answering, etc
+
+## First week
+
+**New Hire tasks**
+
+* Continue getting familiar / comfortable
+
+**Tasks done by other teams**
+
+* History/core values discussion from JP
+* Demo / Walkthrough of app by CC
+
+---
+
+## Add to systems
 
 **Company**
 
 * hipchat invite
 * pipelinedealsco.com invite
-* add to lastpass as developer
+* lastpass as developer
+* github, for early access to engineering wiki / internal videos
 
 **Development**
 
-* invite to trello
-* add to github team
-* add to new relic
+* trello
+* github team
+* new relic
+* honeybadger
 
 **Devops**
 
-* add to pagerduty
-* add to userify
-* add to aws console
-
-#### Tasks
-
-* Company welcome email introducing new employee
-* Add to /about page
-* Pair programming and coding assignment
-
-## Onboarding process (2 weeks?)
-
-**Assign a mentor**
-
-* 2-3 weeks, will help guide the new developer for the first few weeks.
-* Code walkthrough, pair programming
-* Mentorship starts 1-2 weeks before the actual hire date.
-
-**Access to PipelineDeals wiki**
-
-* Get developer access to pipelinedeals wiki, so they can start getting familiar with layout / topography
-* Get developer access to PipelineDeals video library
-
-**Process**
-
-* Trello board
-
-**Tasks**
-
-* Deploy on the very first day.  Is this a gimmick?
-* Demo / Walkthrough of app by CC
-* History/core values discussion from JP
-
-### TODO
-
-* [ ] We need to record other videos on our production infrastructure
-* [ ] Maybe move our wiki from github, or to another repo?  Or back to the public engineering docs?
-* [ ] Talk to root about his onboarding.  What does he wish he had the most?
-* [ ] Referral program / bonus?
+* pagerduty
+* userify
+* aws console
