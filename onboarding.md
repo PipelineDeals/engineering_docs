@@ -11,6 +11,7 @@
 * Computer secured, wiped, ready to go
 * Mentor assigned
 * Mentor reaches out 1-2 weeks before start date, to be available for any questions.
+* Employee handbook delivered
 * Pair programming  / coding asisgnment set.  Bugs?  new development?
 * Access to PipelineDeals Engineering wiki
 * Access to all other systems
