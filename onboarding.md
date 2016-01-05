@@ -37,6 +37,7 @@
 * [ ] Deploy on the very first day.  Is this a gimmick?
 * [ ] Machine setup
 * [ ] Add self to /about page?
+* [ ] Follow the security checklist for your computer here:  https://docs.google.com/document/d/1Qy9fWIRz-1adoisebz5ftz0AiE56Hq3gs68QXsKo3uQ/edit
 
 **Mentor tasks**
 
