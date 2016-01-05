@@ -11,6 +11,7 @@
   * Things to do while here
 * [ ] Add start date to office calendar
 * [ ] Get Travel itenerary squared away
+* [ ] Mentor assigned
 * [ ] Employee handbook delivered
   * Ensure they know of sick time, paid leave, and other important policies
 
@@ -21,7 +22,7 @@
 **Mentor / Admin tasks**
 
 * [ ] Computer secured, wiped, ready to go
-* [ ] Mentor assigned
+
 * [ ] Mentor reaches out 1-2 weeks before start date, to be available for any questions.
 * [ ] Pair programming  / coding asisgnment set.  Bugs?  new development?
 * [ ] Access to PipelineDeals Engineering wiki
