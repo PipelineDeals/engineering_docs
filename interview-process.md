@@ -10,7 +10,7 @@
 
 ## Structured questions
 
-* [TS] have you worked on a project that had presenters? If so, what were some things that it helped with? Was there anything that you didn’t like about using them?
+* [TS] have you worked on a project that used the presenter pattern? If so, what were some things that it helped with? Was there anything that you didn’t like about using them?
 * [TS, C] Tell me about a recent performance issue you had in Ruby/Rails and how you went about solving it.
 * [TS] Do you know how you would find access  private method from outside the class?
 * [TS, C] What’s the hardest technical problem you’ve had to solve?
