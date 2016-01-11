@@ -66,6 +66,7 @@
 * [ ] lastpass as developer
 * [ ] github, for early access to engineering wiki / internal videos
 * [ ] Email groups, team@, engineering@
+* [ ] Authy phone app for 2FA setup
 
 **Development**
 
@@ -73,6 +74,7 @@
 * [ ] github team
 * [ ] new relic
 * [ ] honeybadger
+* [ ] papertrailapp
 
 **Devops**
 
