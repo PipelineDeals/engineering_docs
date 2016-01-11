@@ -4,7 +4,6 @@
 
 * Technical skill [TS]
 * Continuing education, willingness to learn [CE]
-* Generalist [G]
 * Communication [C]
 * Devopsiness [D]
 
@@ -22,9 +21,11 @@
 * [TS] What are your preferred testing tools?
 * [TS, CE] What are some of your favorite gems?
 * [CE] Favorite podcasts?
+* [CE] Who are your favorite authors?  What technical books have been your favorite?
 * [CE] What are you favorite sources to honing your tech skills?
 * [CE, potentially G] If you could go to 2 conferences for free, which would they be?
-* [G] Which javascript framework is most interesting to you?
+* [C] Talk about a failure you've been involved in.  What failed?  What did you learn from the failure?
+* [TS] Which javascript framework is most interesting to you?
 * [D] Are you interested in production infrastructure and its maintenance?
 * [D] What cloud providers do you have experience with? (AWS, heroku, etc)
 * [D] Have you run production apps in those cloud environments?
