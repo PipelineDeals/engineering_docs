@@ -43,7 +43,11 @@ Each time you meet with your direct, take notes.  The meeting should generally f
 
 There is also a document that shows how to take notes during the one on one session:
 
-https://drive.google.com/file/d/0B4NtZYgeIrfqUHU1bkpFTEczanM/view?usp=sharing
+* https://drive.google.com/file/d/0B4NtZYgeIrfqUHU1bkpFTEczanM/view?usp=sharing
+
+**Other 1o1 Resources:**
+
+* http://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
 
 # Performance appraisal
 
