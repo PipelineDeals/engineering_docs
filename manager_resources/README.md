@@ -26,10 +26,11 @@ Some examples of goals are the following:
 * Deliver frank's performance review on 2/23, utilizing the performance appraisal framework.
 * Own + deploy the faster deployment solution.
 
-Take notes about how your direct did for each of their previous goals.
+Note that the goals do not have to be fully quantitative.  There can be qualitative goals in there.  Just touch upon each of them in the 1o1 and ensure it's going in the right direction.
 
+At the end of the quarter, take notes about how your direct did for each of their previous goals by compiling your notes from the weekly 1o1s.
 
-# One on Ones
+# One on Ones (1o1s)
 
 In general, we follow the format outlined by manager-tools.com for one-on-ones.
 
