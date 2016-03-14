@@ -68,8 +68,3 @@ Summarize behavior or performance, then give an example.  Two sentences, no more
 "Bob is my best customer service rep.  Recently he saved a difficult call despite 3 other reps not being able to."
 
 In both techniques, avoid commas.  Short is better.
-
-
-
-
-

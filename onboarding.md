@@ -63,7 +63,7 @@
 
 * [ ] hipchat invite
 * [ ] Google apps invite
-* [ ] lastpass as developer
+* [ ] lastpass as developer, add to shared-devs
 * [ ] github, for early access to engineering wiki / internal videos
 * [ ] Email groups, team@, engineering@
 * [ ] Authy phone app for 2FA setup
