@@ -75,6 +75,7 @@
 * [ ] new relic
 * [ ] honeybadger
 * [ ] papertrailapp
+* [ ] scoutapp
 
 **Devops**
 
