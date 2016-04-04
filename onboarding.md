@@ -76,6 +76,7 @@
 * [ ] honeybadger
 * [ ] papertrailapp
 * [ ] scoutapp
+* [ ] getsentry
 
 **Devops**
 
