@@ -1,5 +1,17 @@
 # Engineer Interview Process
 
+1. initial interview -- (team lead and VPE)
+  * cultural fit
+  * light technical questions
+  * evaluating communication
+
+2. second interview, technical (team lead)
+  * technical aptitude
+  * homework assignment
+
+3. group interview w/ team, final voice to veto
+  * [ ] we need to bring structure into the group interview
+
 ## Attributes:
 
 * Technical skill [TS]
@@ -30,6 +42,12 @@
 * [D] What cloud providers do you have experience with? (AWS, heroku, etc)
 * [D] Have you run production apps in those cloud environments?
 * [D] Do you have experience with configuration management like chef, puppet, ansible?
+
+# Take-home assignment
+
+* Implement a list view using our API?
+* Implement a cool graph for visualizing the $ value of deals in your pipeline.
+* Implement a nice person directory.
 
 ## Resources:
 
