@@ -32,6 +32,7 @@
 * [TS, C] Are there particular technical challenges that would intentionally avoid Ruby/Rails?
 * [TS, C] Say I handed you a dictionary of the english language, and said I would be timing you on the average time it took you to find the page a specific word is on. Describe your algorithm for minimizing your search time.
 * [TS] How do hash tables work? What are some examples of real life hash tables? When is using a hash table a poor choice for the data you're storing?
+* [TS] What are some common ways of securing an API?
 * [TS] Do you have experience with deploying a Rails app? If so, platform, stack?
 * [TS] How would you go about adding authentication to a new project?
 * [TS] What are your preferred testing tools?
@@ -60,6 +61,7 @@
 * [TS] What is thread safety? What do you have to avoid in your Ruby code to ensure your app is thread-safe?
 * [TS, C] How can you make your code harder to test?
 * [TS, CE] What are some of your favorite gems?
+* [CE] Who are your favorite authors?  What technical books have been your favorite and why?
 * [CE] What are you favorite sources to honing your tech skills?
 * [CE] What was the last language/framework you learned that expanded your mind with regards to code and what is possible?
 * [C] Talk about a failure you've been involved in.  What failed?  What did you learn from the failure?
