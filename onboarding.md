@@ -49,6 +49,7 @@
 **New Hire tasks**
 
 * [ ] Machine setup
+* [ ] Ensure new hire is aware of PPLAHH and other relevant meetings
 
 **Tasks done by other teams**
 
