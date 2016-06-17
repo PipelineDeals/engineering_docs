@@ -84,3 +84,4 @@
 * [ ] pagerduty
 * [ ] userify
 * [ ] aws console
+* [ ] Railsmachine slack channel
