@@ -79,6 +79,7 @@
 * [ ] papertrailapp
 * [ ] scoutapp
 * [ ] getsentry
+* [ ] code climate
 
 **Devops**
 
