@@ -1,5 +1,7 @@
 # Engineering Job tiers at PipelineDeals
 
+PipelineDeals does not have formal titles for engineers.  While we tend to hire "Senior" engineers over juniors, there is not a ladder to climb after Senior engineer, unless someone opts to be a Team Lead.  This follows closely with the [Netflix approach](https://www.quora.com/What-are-the-levels-titles-at-Netflix-in-the-engineering-ladder-and-in-the-management-ladder-and-how-do-they-compare-to-big-high-tech-companies-like-Google).  This does not mean there are not promotions, however.  Salaries are reviewed annually and compensation is determined by how much impact and responsibility each engineer demonstrates.
+
 ## VP Engineering
 
 ### Strategic vision
@@ -8,17 +10,15 @@
 
 ### Process and structure
 
- * Define and enhance the software delivery process for all teams
  * Define the teams and who leads them
  * Define deployment strategy
- * Set the overall technical direction
 
 ### Initiative & Attitude
 
  * Be the spokesperson for the entire Engineering team
  * Evangelize the Engineering team to the company and beyond
  * Leads technical direction of all products
- 
+
 ### Communication
 
 * Be the main touchpoint for all inbound and outbound communications of the engineering team
@@ -39,9 +39,10 @@
  * Define + Manage all Engineering teams
  * Manage all 3rd party relationships
  * Manage the engineering budget
- * Help define OKRs for team leads
+ * Help define quarterly goals for team leads + ICs
  * Conduct performance reviews for team leads
- * Build and maintain a hiring pipeline
+ * Build + maintain a hiring pipeline
+ * Define the interviewing process and measure its success
  * Motivate the entire Engineering department towards a company-wide finish line
 
 ### Tech leadership
