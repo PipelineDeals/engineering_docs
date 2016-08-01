@@ -50,6 +50,7 @@
 
 * [ ] Machine setup
 * [ ] Ensure new hire is aware of PPLAHH and other relevant meetings
+* [ ] Ensure new hire is aware of PagerDuty and on-call rotation
 
 **Tasks done by other teams**
 
